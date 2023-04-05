@@ -8,7 +8,7 @@ I'm an avid programmer and student developer
 Currently developing in `python`, `java`, and `c#`.
 Currently learning `javascript`, `html`, and `css`
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boomexe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boomexe&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
