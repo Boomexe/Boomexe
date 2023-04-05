@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, Boomexe here 👋
 
-<!--
-**Boomexe/Boomexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an avid programmer and student developer
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomexe&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Currently developing in `python`, `java`, and `c#`.
+Currently learning `javascript`, `html`, and `css`
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boomexe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+VSC forever (except for java)
