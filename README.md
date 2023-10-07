@@ -1,4 +1,4 @@
-### Hey, Boomexe here 👋
+### Hey there! 👋
 
 I'm an avid programmer and student developer
 
