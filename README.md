@@ -11,4 +11,7 @@ I have 5+ years in `python`, currently developing in `python`, `java`, and `c#` 
 
 ---
 
-VSC forever (except for java)
+VSC forever kinda sometimes yeah
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=go+outside)](https://git.io/typing-svg)
