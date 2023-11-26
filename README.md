@@ -7,7 +7,7 @@ I like programming (because that definitely wasn't obvious)
 ---
 I have 5+ years in `python`, currently developing in `python`, `java`, and `c#` and learning `javascript`, `html`, and `css`.
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boomexe&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boomexe&layout=compact&theme=dark&hide=hlsl,shaderlab)
 
 ---
 
