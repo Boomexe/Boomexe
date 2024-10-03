@@ -7,7 +7,7 @@ Programming but cool
 ---
 I have 7+ years in `python`, currently developing in `python`, `dart`, `java`, and `c#` and learning `javascript`.
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boomexe&layout=compact&theme=dark&hide=hlsl,shaderlab)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boomexe&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&hide=hlsl,shaderlab,html,css,kvlang)
 
 ---
 
