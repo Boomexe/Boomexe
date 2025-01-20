@@ -1,6 +1,6 @@
 ### Hi 👀
 
-Programming but cool
+Programming but programming but programming but programming but programming.
 
 [![Anurag's GitHub stats](https://github-readme-stats-cyan-chi-78.vercel.app/api?username=Boomexe&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
